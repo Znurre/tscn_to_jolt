@@ -1,0 +1,26 @@
+{
+  "name": "tscn-to-jolt",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "glm",
+    "joltphysics",
+    "spdlog",
+    "cpp-peglib",
+    "cli11",
+    "gd-parser",
+    "havoc"
+  ],
+  "builtin-baseline": "b509a07261b982f35c663bf638aae5f77877d207",
+  "overrides": [
+    {
+        "name": "spdlog",
+        "version-semver": "1.14.1",
+        "port-version": 0
+    },
+    {
+        "name": "fmt",
+        "version": "9.1.0",
+        "port-version": 1
+    }
+  ]
+}

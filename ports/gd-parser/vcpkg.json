@@ -1,0 +1,6 @@
+{
+  "name": "gd-parser",
+  "version-semver": "1.0.0",
+  "description": "C++ parser for the Godot resource file format",
+  "homepage": "https://github.com/Znurre/gd_parser"
+}

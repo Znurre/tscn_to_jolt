@@ -1,0 +1,6 @@
+{
+  "name": "havoc",
+  "version-semver": "1.0.0",
+  "description": "Heap Allocated Value Object Containers",
+  "homepage": "https://github.com/Znurre/havoc"
+}
